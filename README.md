@@ -13,7 +13,7 @@ Biltong Master is a piece of software and hardware that can make your DIY Bilton
   - ULN 2003A STM (kind of too much but inexpensive
   - MOLEX 22272031
   - MOLEX 22272041
-  - G5Q-1A EU 12DC	(there are diferent versions. you may have to change the layout and fork the project)
+  - G5Q-1A EU 12DC	(there are different versions. you may have to change the layout and fork the project)
   - L7805CV (to shift 12V to 5V)
   - Standard DC Socket 5.5mm
   - two screw Terminals or equivalent (WAGO push terminal) with 3 pins 3.5mm
