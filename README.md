@@ -14,6 +14,8 @@ Biltong Master is a piece of software and hardware that can make your DIY Bilton
   - MOLEX 22272031
   - MOLEX 22272041
   - G5Q-1A EU 12DC	(there are diferent versions. you may have to change the layout and fork the project)
+  - L7805CV (to shift 12V to 5V)
+  - Standard DC Socket 5.5mm
 
 
 ![Screenshot 2025-02-12 122254](https://github.com/user-attachments/assets/f9b78ced-c9ba-424a-9258-a3cf8e80b841)
