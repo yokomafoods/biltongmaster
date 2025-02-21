@@ -4,7 +4,7 @@ Biltong Master is a piece of software and hardware that can make your DIY Bilton
 
 # What you get
 - CODE
-- PCB Layout (FRITZING Open Source and easy to use) -> Don't forget to SEED GND
+- PCB Layout (FRITZING Open Source and easy to use)
 
 # List of things you need for the Controller
 - Order the PCB with the manufacturer of your choice
@@ -22,4 +22,3 @@ Biltong Master is a piece of software and hardware that can make your DIY Bilton
 https://YOKOMAFOODS.COM
 
 
-![Screenshot 2025-02-12 122254](https://github.com/user-attachments/assets/f9b78ced-c9ba-424a-9258-a3cf8e80b841)
