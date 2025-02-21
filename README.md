@@ -21,4 +21,4 @@ Biltong Master is a piece of software and hardware that can make your DIY Bilton
  
 https://YOKOMAFOODS.COM
 
-
+![Screenshot 2025-02-21 223830](https://github.com/user-attachments/assets/7baee7f7-8e91-433c-b717-6806dcb45e7c)
