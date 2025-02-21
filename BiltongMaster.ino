@@ -29,7 +29,7 @@ XPT2046_Touchscreen ts(TOUCH_CS, TOUCH_IRQ);
 // Sensor and actuator pins
 #define DHTPIN 23          // Pin for DHT22 sensor
 #define DHTTYPE DHT22     // Type of DHT sensor
-#define FAN_PWM_PIN 15     // PWM pin for fan control
+#define FAN_PWM_PIN 17     // PWM pin for fan control
 #define FAN_TACH_PIN 16   // Tachometer pin for fan speed measurement
 #define RELAY_PIN 18      // Pin for relay (heating)
 
