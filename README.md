@@ -3,8 +3,8 @@
 Biltong Master is a piece of software and hardware that can make your DIY Biltong Box more comfortable.
 
 # What you get
-- CODE
-- PCB Layout (FRITZING Open Source and easy to use)
+- CODE BiltongMaster.ino
+- PCB  BiltongMasterLayout.fzz (FRITZING Open Source and easy to use)
 
 # List of things you need for the Controller
 - Order the PCB with the manufacturer of your choice
