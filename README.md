@@ -18,6 +18,7 @@ Biltong Master is a piece of software and hardware that can make your DIY Bilton
   - Standard DC Socket 5.5mm
   - two screw Terminals or equivalent (WAGO push terminal) with 3 pins 5.08mm
   - DHT22 Temp and Humidity Sensor
+  - Fuse holder (glas fuse)
  
 https://YOKOMAFOODS.COM
 
